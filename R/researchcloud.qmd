@@ -14,8 +14,8 @@ format:
 # Surf Research Cloud
 ::: {style="text-align: left; margin-top: 2em; font-size: 1.4em"}
 - Virtual Research Environments
-- Computational power
 - "Laptop in the cloud"
+- Computational power
 - Collaboration
 :::
 
