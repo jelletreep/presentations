@@ -64,9 +64,11 @@ format:
 
 ![](UU_logo_2021_EN_RGB_payoff.png)
 
-# Links
-
-- [UU support](https://www.uu.nl/en/research/research-data-management/tools-services/software-and-computing/virtual-research-environments)
-- [EInfra application](https://servicedesk.surf.nl)
-- [Intro course](surf.nl/en/agenda/research-and-ict)
-- [Research Cloud Documentation](https://servicedesk.surf.nl/wiki/display/WIKI/Research+Cloud+Documentation)
+## tinyurl.com/presentation-jelle  
+  
+<br>  
+**Links:**  
+- [UU support](https://www.uu.nl/en/research/research-data-management/tools-services/software-and-computing/virtual-research-environments)  
+- [EInfra application](https://servicedesk.surf.nl)  
+- [Intro course](surf.nl/en/agenda/research-and-ict)  
+- [Research Cloud Documentation](https://servicedesk.surf.nl/wiki/display/WIKI/Research+Cloud+Documentation)  
