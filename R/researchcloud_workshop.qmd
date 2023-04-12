@@ -1,0 +1,101 @@
+--- 
+format: 
+  revealjs:
+    theme: uu.scss
+    logo: UU_logo_2021_EN_RGB.png
+    footer: "Jelle Treep - Research IT"
+---
+
+# Workshop Surf Research Cloud {data-background-color="#FFCD00"}
+
+![](UU_logo_2021_EN_RGB.png){.absolute bottom=320 left=-240 width="300" height="120"}
+
+
+## What is Research cloud?
+::: {style="text-align: left; margin-top: 2em; font-size: 1.4em"}
+- Management portal for Virtual Research Environments
+- Create your own "Laptop in the cloud"
+- Flexible computation power
+- Collaboration
+:::
+
+## Workspaces
+::: {style="text-align: left; margin-top: 1em; font-size: 1.4em"}
+- Choose your operating system
+- Command Line or GUI
+- Software installations
+- Connect to Researchdrive, Yoda, etc.
+- Compute power
+:::
+
+## HPC Cloud
+::: {style="text-align: left; margin-top: 2em; font-size: 1.4em"}
+- up to 80 CPU cores
+- up to 480 GB RAM
+- up to 4 GPU drives
+- up to 2 TB storage
+:::
+
+## Why this workshop?
+::: {style="text-align: left; margin-top: 2em; font-size: 1.4em"}
+- HPC support
+- Potential new projects
+- Usage in current projects (compute power, collaboration)
+- Output/deliverable of Engineering projects
+:::
+
+## What are we going to do?
+::: {style="text-align: left; margin-top: 2em; font-size: 1.4em"}
+- Introduction to SRAM
+- Research cloud 'developers'
+- Hands on workshop from ansible script to workspace
+:::
+
+
+## Collaboration
+::: {style="text-align: left; margin-top: 2em; font-size: 1.5em"}
+
+[SRAM](https://sram.surf.nl/)
+
+:::
+
+
+## Surf Research Cloud
+::: {style="text-align: left; margin-top: 2em; font-size: 1.5em"}
+
+[Research cloud portal](https://surfresearchcloud.nl/)
+
+:::
+
+## Ansible
+::: {style="text-align: left; margin-top: 2em; font-size: 1.3em"}
+- IT automation tool
+- Configure remote servers
+- Deploy software
+- ssh
+
+:::
+
+## Ansible for Research cloud
+::: {style="text-align: left; margin-top: 2em; font-size: 1.3em"}
+- Configure remote servers from your laptop
+- Create plugins
+* unordered list
+    + Install packages
+    + Transfer data
+    + Run a script
+:::
+
+## Hands on time
+::: {style="text-align: left; margin-top: 2em; font-size: 1.3em"}
+
+github.com/jelletreep/src-workshop
+
+:::
+
+
+# {data-background-color="#FFCD00"}
+
+![](UU_logo_2021_EN_RGB_payoff.png)
+
+

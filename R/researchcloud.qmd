@@ -15,7 +15,7 @@ format:
 ::: {style="text-align: left; margin-top: 2em; font-size: 1.4em"}
 - Virtual Research Environments
 - "Laptop in the cloud"
-- Computational power
+- Flexible computation power
 - Collaboration
 :::
 
