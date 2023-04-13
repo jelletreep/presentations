@@ -421,6 +421,45 @@
 </ul>
 </div>
 </section>
+<section id="ansible-script" class="slide level2">
+<h2>Ansible Script</h2>
+<div style="text-align: left; margin-top: 2em; font-size: 1.3em">
+<p>Example <code>playbook.yml</code></p>
+<pre><code>---
+- name: Some playbook
+  hosts: server1
+  tasks:
+  - name: Install ASReview LAB through pip
+    apt:
+      name: vim
+  - name: Print something
+    debug:
+      msg: "Printing a test message"
+</code></pre>
+</div>
+</section>
+<section id="ansible-inventory" class="slide level2">
+<h2>Ansible Inventory</h2>
+<div style="text-align: left; margin-top: 2em; font-size: 1.3em">
+<p>Inventory file <code>/etc/ansible/hosts</code> <br> <br></p>
+<pre><code>[researchcloud]
+server1 ansible_host=145.38.189.77
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3</code></pre>
+</div>
+</section>
+<section id="ansible-jargon" class="slide level2">
+<h2>Ansible Jargon</h2>
+<div style="text-align: left; margin-top: 2em; font-size: 1.3em">
+<ul>
+<li>modules</li>
+<li>playbooks</li>
+<li>roles</li>
+<li>structure</li>
+</ul>
+</div>
+</section>
 <section id="hands-on-time" class="slide level2">
 <h2>Hands on time</h2>
 <div style="text-align: left; margin-top: 2em; font-size: 1.3em">
